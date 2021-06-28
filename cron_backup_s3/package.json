@@ -21,8 +21,11 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@aws-cdk/aws-cloudformation": "^1.110.0",
+    "@aws-cdk/aws-lambda": "^1.110.0",
     "@aws-cdk/aws-s3": "^1.110.0",
     "@aws-cdk/core": "1.109.0",
+    "@mobileposse/auto-delete-bucket": "^1.55.0",
     "source-map-support": "^0.5.16"
   }
 }
